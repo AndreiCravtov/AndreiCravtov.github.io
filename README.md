@@ -1,2 +1,1 @@
-# AndreiCravtov.github.io
-My personal porfolio
+# My personal porfolio
